@@ -93,8 +93,8 @@ void Test1()
 	Test( pre, vin);
 }
 
-int main(int argc, char* argv[])
+/*int main(int argc, char* argv[])
 {
 	Test1();
 	return 0;
-}
+}*/
